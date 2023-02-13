@@ -1,0 +1,16 @@
+[browser]
+displayModeBar = false
+
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#ffffff'
+
+# Background color for the main content area
+backgroundColor = '#000000'
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = 'grey'
+
+# Color used for almost all text
+textColor = '#ffffff'
